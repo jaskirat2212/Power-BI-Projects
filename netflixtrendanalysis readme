@@ -1,0 +1,33 @@
+ Netflix Trends Analysis Dashboard – Power BI Project
+
+Overview
+This Power BI project analyzes Netflix viewing trends, content distribution, and performance insights to uncover patterns in  content type preferences, and regional availability.
+It helps understand how Netflix content evolves over time and what factors contribute to its success on the platform.
+
+Objective
+To extract meaningful insights from Netflix’s dataset using data visualization, aiming to:
+Understand content trends over the years
+Analyze genre and rating distributions
+Identify top-performing content by country and type
+Track release trends across years and platforms
+
+
+
+The dataset used includes:
+Title, type (Movie/TV Show)
+Genre, Country, Release Year
+Date added, Rating, Duration
+
+
+Source: Kaggle Netflix Dataset 
+
+ 🛠 Tools & Techniques
+ Power BI for interactive dashboard creation
+ Excel for data cleaning and preprocessing
+ Slicers, filters, and visuals like bar charts, pie charts, and KPIs
+
+Insights Derived
+Netflix has steadily increased TV show releases in recent years
+US dominates in content production, but global diversity is growing
+TV-MA" and TV-14 are among the most common ratings
+certain genres like Drama and Comedy dominate the catalog
